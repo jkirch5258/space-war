@@ -46,6 +46,8 @@ The third is the Jester, Evan. He makes sure that his queen laughs along with th
 ![Image of Evan](https://github.com/jkirch5258/space-war/blob/master/assets/images/Evans.png)
 
 
-## Game platy
+## Game play
 
 ![Game play](https://github.com/jkirch5258/space-war/blob/master/assets/images/Game_play.png)
+
+#Credits
