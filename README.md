@@ -31,7 +31,7 @@ Press the x in the corner to leave the game
 
 Your ship is based off of my halo character gamer tag and my icon.
 
-![Image of C-15 Ship](https://github.com/jkirch5258/space-war/blob/master/assets/images/C-15Ship%20(2).png)
+![Image of C-15 Ship](https://raw.githubusercontent.com/jkirch5258/space-war/master/assets/images/C-15Ship%20(2).png)
 
 ### Enemy List and score value
 
@@ -39,20 +39,20 @@ There are three enemies that you need to destroy
 
 The first is Doctor Ocean Man. He is the General of all the enemy Fleet and is worth 15 points.
 
-![Image of Doctor Water Man](https://github.com/jkirch5258/space-war/blob/master/assets/images/DOMship.png)
+![Image of Doctor Water Man](https://raw.githubusercontent.com/jkirch5258/space-war/master/assets/images/DOMship.png)
 
 The second is Epic Gamer. He is the second in command of the enemy fleet. He is worth 10 points.
 
-![Image of Epic Gamer](https://github.com/jkirch5258/space-war/blob/master/assets/images/Epicgamer.png)
+![Image of Epic Gamer](https://raw.githubusercontent.com/jkirch5258/space-war/master/assets/images/Epicgamer.png)
 
 The third is the Jester, Evan. He makes sure that his queen laughs along with the General. He is worth 5 points.
 
-![Image of Evan](https://github.com/jkirch5258/space-war/blob/master/assets/images/Evans.png)
+![Image of Evan](https://raw.githubusercontent.com/jkirch5258/space-war/master/assets/images/Evans.png)
 
 
 ## Game play
 
-![Game play](https://github.com/jkirch5258/space-war/blob/master/assets/images/Game_play.png)
+![Game play](https://raw.githubusercontent.com/jkirch5258/space-war/master/assets/images/Game_play.png)
 
 #Credits
 Fonts form 1001 fonts 
