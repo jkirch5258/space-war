@@ -54,7 +54,7 @@ The third is the Jester, Evan. He makes sure that his queen laughs along with th
 
 ![Game play](https://raw.githubusercontent.com/jkirch5258/space-war/master/assets/images/Game_play.png)
 
-#Credits
+# Credits
 Fonts form 1001 fonts 
 https://www.1001fonts.com/sabril-font.html
 Ships from
