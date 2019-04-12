@@ -25,7 +25,7 @@ And the space bar shoots.
 Press P to pause and unpause.
 Press the x in the corner to leave the game
 
-![Close image](https://github.com/jkirch5258/space-war/blob/master/assets/images/x.jpg)
+![Close image](https://raw.githubusercontent.com/jkirch5258/space-war/master/assets/images/x.jpg)
 
 ### What is your ship
 
