@@ -1,6 +1,10 @@
 # Welcome to my Space War
 By: Joshua Kirchner
 
+## Zip File of game
+
+https://github.com/jkirch5258/space-war/archive/master.zip
+
 # Back Story
 
 You are in the Milky Way Galaxy. The year is 3030 AD. You retired in 2020 AD but you were the best pilot we had. The government managed to convince
