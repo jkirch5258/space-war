@@ -1,9 +1,9 @@
-# Welcome to my Space War
+# Welcome to Space War
 By: Joshua Kirchner
 
 ## Zip File of game
 
-https://github.com/jkirch5258/space-war/archive/master.zip
+[Zip file](https://github.com/jkirch5258/space-war/archive/master.zip)
 
 # Back Story
 
